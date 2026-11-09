@@ -37,7 +37,13 @@ Preview: You asked to be first in line. Here's your spot.
 
 ## 4. Sign-off, then footer
 
-- The body ends with our sign-off, taken from Part 5 ("How we sign off") of `brand/voice.md`. Use it as written there. Don't make up a new one.
+- The body ends with this sign-off, written exactly like this, as plain text:
+
+Best regards,
+
+The Kettlebird Tea Team
+
+- Why not the signature in `brand/voice.md`? That guide is for Prime Patchy, so its signature would put the wrong brand on Kettlebird Tea emails. This sign-off uses its default closing line ("Best regards,") and its sender pattern for general emails ("The ... Team"). Don't make up a different one. If a Kettlebird voice guide is added later, use its sign-off and update this rule.
 - After the sign-off, end the file with this two-line footer, written as **plain text**, not inside a code block:
 
 You're getting this because you joined the Kettlebird Tea waitlist.
@@ -51,5 +57,5 @@ Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
 - [ ] Line 2 is `Preview:` and the preview is 90 characters or fewer
 - [ ] The greeting uses `{{first_name}}`
 - [ ] There's exactly one main link, to `https://kettlebird.example/steep-club`
-- [ ] The sign-off matches `brand/voice.md`
+- [ ] The sign-off is "Best regards," then "The Kettlebird Tea Team"
 - [ ] The two-line footer is last, in plain text, not in a code block

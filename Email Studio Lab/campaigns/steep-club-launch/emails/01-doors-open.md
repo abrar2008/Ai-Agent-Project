@@ -1,9 +1,9 @@
 Subject: The Steep Club is open
-Preview: You joined our waitlist, so you're first in line for the first boxes.
+Preview: Thank you for waiting. Here's how it works and what it costs.
 
 Hi {{first_name}},
 
-You joined our waitlist for The Steep Club, and today it's open. You're hearing first because you asked to.
+You joined our waitlist for The Steep Club, and today it's open. Thank you for waiting.
 
 Here's how it works:
 
@@ -11,9 +11,7 @@ Here's how it works:
 - **Every tea** comes with a simple brewing card, so you know exactly what to do.
 - **It costs [PRICE] a month.** [CANCELLATION POLICY, word for word]
 
-[FOUNDING MEMBER OFFER: one line, only if the owner approves it. Otherwise delete this line.]
-
-The first boxes go to the waitlist first. All you have to do is put the kettle on.
+We'll confirm your delivery window when you order. All you have to do is put the kettle on.
 
 [Join The Steep Club](https://kettlebird.example/steep-club)
 

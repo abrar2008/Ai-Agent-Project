@@ -1,22 +1,22 @@
-Subject: Our founding member offer ends tomorrow
-Preview: Join by Sunday, January 3 and get [OFFER]. Just for our waitlist.
+Subject: A last note about The Steep Club
+Preview: A quick recap of what you get, in case you're still deciding.
 
 Hi {{first_name}},
 
-A quick reminder: the founding member offer for The Steep Club ends tomorrow, Sunday, January 3, at [END TIME].
-
-Join before then and you'll get [OFFER]. It's only for people on our waitlist, as a thank-you for waiting.
+This is our last email about the launch, so here's a quick recap of The Steep Club.
 
 Here's what you get:
 
 - [NUMBER] teas picked for you each month
 - A brewing card with every tea
-- [PRICE] a month after [OFFER PERIOD]
+- [PRICE] a month
 - [CANCELLATION POLICY, word for word]
 
-If The Steep Club isn't for you right now, that's completely fine. This is our last reminder about the offer.
+We'll confirm your delivery window when you order.
 
-[Join Before Sunday](https://kettlebird.example/steep-club)
+If The Steep Club isn't for you right now, that's completely fine. Thank you for joining the waitlist and following along.
+
+[Join The Steep Club](https://kettlebird.example/steep-club)
 
 Best regards,
 

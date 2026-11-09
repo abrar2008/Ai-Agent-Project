@@ -1,5 +1,5 @@
 Subject: Take a look inside the first box
-Preview: The teas, the brewing card, and what a month with us looks like.
+Preview: The teas, the brewing card and what a month with us looks like.
 
 Hi {{first_name}},
 
@@ -9,11 +9,11 @@ We'd rather show you The Steep Club than just tell you about it. Here's what's i
 
 [PHOTO: flat-lay of the first box]
 
-Each tea comes with a brewing card. It tells you how much tea to use, how hot the water should be and how long to let it steep. [CONFIRM what kit is needed, for example "A mug and a kettle are all you need."]
+Every tea comes with a brewing card. It tells you how much tea to use, how hot the water should be and how long to let it steep. [CONFIRM what kit is needed, for example "A mug and a kettle are all you need."]
 
-New to loose tea? The card takes out the guesswork. Drink tea every day? You'll get something different from your usual cup each month.
+New to tea beyond tea bags? The card takes out the guesswork. Drink tea every day? Each month brings teas you may not have tried yet.
 
-[See What's in the Box](https://kettlebird.example/steep-club)
+[Join The Steep Club](https://kettlebird.example/steep-club)
 
 Best regards,
 
