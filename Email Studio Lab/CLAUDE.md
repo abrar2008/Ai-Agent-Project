@@ -13,6 +13,8 @@ This studio is for planning and writing email campaigns for a small business.
 
 - Write in plain English. Use short sentences and everyday words, and avoid jargon.
 - Never send email to real people. Drafting and planning are fine, but don't send, schedule or test-send to any real address.
+  - The one exception is sending through Resend. That is allowed only to Resend's test addresses (ending in `@resend.dev`) and to my own email address. Nothing else.
+  - A guard will enforce this in the next step.
 - Ask me before deleting anything, including files, folders and drafts.
 
 ## Brand voice
